@@ -11,5 +11,4 @@ func main() {
 
 	output := lado * lado
 	fmt.Println("el area es de: ", output)
-
 }
